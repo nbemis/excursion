@@ -7,7 +7,12 @@ body{
 }
 
 header{
+  background-color: rgb(83, 83, 83);
   font-size: 50px;
+}
+
+header > p{
+  margin-top: 0px
 }
 
 .exLink{
